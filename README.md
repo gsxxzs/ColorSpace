@@ -1,2 +1,2 @@
 # ColorSpace
-HSI与RGB两个颜色空间的转换
+HSI到RGB两个颜色空间的相互转换
